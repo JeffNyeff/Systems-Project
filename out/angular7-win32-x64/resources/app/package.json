@@ -43,7 +43,7 @@
     "@types/node": "~8.9.4",
     "bootstrap": "~4.3.1",
     "codelyzer": "~4.5.0",
-    "electron": "^4.1.1",
+    "electron": "^11.5.0",
     "electron-forge": "~5.2.4",
     "electron-prebuilt-compile": "2.0.0",
     "font-awesome": "~4.7.0",
